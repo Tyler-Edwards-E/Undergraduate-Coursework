@@ -1,2 +1,2 @@
 # Godel-s-Undecidability-Theorem
-Coursework from a discrete math programming course.
+Exercises from a discrete math programming textbook.
