@@ -1,4 +1,4 @@
-# SAS-Example
+# SAS-Linear_Regression
 My SAS code for a part course project
 
 The goal of this project was to determine predictors for the variable PS_HAM27. 
